@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "d883dd4ead797a24",
+            "id": "e35b13dbcc450c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-q4/2025-11-21.md",
+                "file": "2025-q4/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-21"
-            }
-          },
-          {
-            "id": "e69760fb4faef01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-q4/readme.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "readme.md"
+              "title": "readme"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,12 +200,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e69760fb4faef01d",
+  "active": "e35b13dbcc450c84",
   "lastOpenFiles": [
     "README.md",
-    "2025-q4/2025-11-24.md",
+    "AGENTS.md",
+    "2025-q4/2025-11-29.md",
     "2025-q4/2025-11-21.md",
+    "2025-q4/2025-11-27.md",
+    "CLAUDE.md",
+    "2025-q4/readme.md",
     "2025-q4/readme.md.md",
+    "2025-q4/2025-11-24.md",
     "2025-q4"
   ]
 }
