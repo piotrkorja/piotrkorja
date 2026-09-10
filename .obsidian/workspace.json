@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "57b3fa452a9997cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "10fb45dc22c0784d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b971d07edcd2eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-q2/readme.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df23358ebf67169b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6a12dff3f6b3a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea2caba18e9461e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eebd4c93d04473e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec74798180d35bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acaca3c81c6a2fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcf27bb48e620ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa42bb65866dbb80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-q4/2025-11-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-11-21"
+            }
+          },
+          {
+            "id": "ad32768b39a047fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-q4/2025-11-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-11-21"
+            }
+          },
+          {
+            "id": "3597212273726751",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e510d459720fda3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "afc338a91af7a7a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-q4/2025-11-21.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-11-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b971d07edcd2eeb7",
+  "lastOpenFiles": [
+    "2026-q2/week-21/readme.md.md",
+    "2026-q2/week-21/2026-05-19, TUE.md",
+    "2026-q2/week-21/2026-05-18, MON.md",
+    "2026-q2/readme.md.md",
+    "2026-q2/week-20/2026-05-14, THU.md",
+    "2026-q2/week-19/2026-05-07, THU.md",
+    "2026-q2/week-21",
+    "2026-q2/week-20/readme.md.md",
+    "2026-q2/week-20",
+    "README.md",
+    "2026-q1/readme.md",
+    "2025-q4/2025-11-21.md",
+    "AGENTS.md",
+    "2026-q2/week-19/readme.md.md",
+    "2026-q2/week-19",
+    "2025-q4/2025-12-11.md",
+    "2026-q1/week-10/2026-03-06, FRI.md",
+    "2026-q2",
+    "2026-q1/week-8/2026-02-18, WED.md",
+    "2026-q1/week-10",
+    "2026-q1/week-8/2026-02-18-audited-rubygem.md",
+    "2026-q1/week-8",
+    "2026-q1/week-7/2026-02-14, SAT.md",
+    "2026-q1/week-6/2026-02-05, THU.md",
+    "2026-q1/week-7",
+    "2026-q1/week-6",
+    "2026-q1/week-5/2026-01-30, FRI.md",
+    "2026-q1/week-5/2026-01-28.md",
+    "2026-q1/week-4/2026-01-25.md",
+    "2026-q1/week-5",
+    "2025-q4/2025-11-24.md",
+    "2026-q1/week-4",
+    "2026-q1/week-3/2026-01-17.md",
+    "2025-q4/2025-11-29.md",
+    "2026-q1/week-2/2026-01-14.md",
+    "2025-q4/2025-11-27.md"
+  ]
+}
